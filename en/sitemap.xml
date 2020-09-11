@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://tech-mithun.github.io/whoami/</loc>
+    <lastmod>2020-09-11T10:39:25+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tech-mithun.github.io/de/whoami/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-mithun.github.io/whoami/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tech-mithun.github.io/projects/</loc>
+    <lastmod>2020-09-11T10:39:10+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tech-mithun.github.io/de/projects/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-mithun.github.io/projects/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tech-mithun.github.io/contact/</loc>
+    <lastmod>2020-09-11T10:38:46+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tech-mithun.github.io/de/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-mithun.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tech-mithun.github.io/blogs/</loc>
+    <lastmod>2020-09-11T10:38:31+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tech-mithun.github.io/de/blogs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-mithun.github.io/blogs/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tech-mithun.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tech-mithun.github.io/de/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-mithun.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tech-mithun.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tech-mithun.github.io/de/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-mithun.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tech-mithun.github.io/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tech-mithun.github.io/de/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-mithun.github.io/series/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://tech-mithun.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://tech-mithun.github.io/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://tech-mithun.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
