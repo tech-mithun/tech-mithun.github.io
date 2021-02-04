@@ -4,10 +4,14 @@
 	<sitemap>
 	   	<loc>https://mithun.tech/de/sitemap.xml</loc>
 		
+	   	<lastmod>2020-09-11T10:39:20+05:30</lastmod>
+		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>https://mithun.tech/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-09-11T10:39:25+05:30</lastmod>
 		
 	</sitemap>
 	

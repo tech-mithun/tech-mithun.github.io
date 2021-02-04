@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mithun.tech/de/</loc>
+    <lastmod>2020-09-11T10:39:20+05:30</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mithun.tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://mithun.tech/de/"
+                />
+  </url>
+  
+  <url>
     <loc>https://mithun.tech/de/whoami/</loc>
     <lastmod>2020-09-11T10:39:20+05:30</lastmod>
     <xhtml:link
@@ -73,20 +88,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="https://mithun.tech/de/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://mithun.tech/de/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mithun.tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://mithun.tech/de/"
                 />
   </url>
   
